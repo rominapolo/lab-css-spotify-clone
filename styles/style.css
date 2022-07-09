@@ -46,7 +46,8 @@ h1 {
 }
 
 #hero-image {
-  background-color: black;
+    background-image: url("../images/landing.jpg");
+  
   height: 46vw;
   display: flex;
   align-items: center;
